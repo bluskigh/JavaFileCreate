@@ -14,7 +14,7 @@ Resulting Directory
 - HelloWorld.java
 - ...
 <!---->
-Inside of the create Java file:
+Inside of the created Java file:
 ```
 public class [FileName] {
 	public static void main(String[] args) {
