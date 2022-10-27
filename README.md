@@ -1,6 +1,6 @@
 # JavaFileCreate
 ## create.py
-Execution Arguments: Java File Name (excluding file type .java)__
+Execution Arguments: Java File Name (excluding file type .java)\
 Warning: Erases everything in existing files with the file name provided.
 ## cr.sh
 Execution Arguments: Java File Name
