@@ -12,7 +12,7 @@ source cr.sh HelloWorld
 Resulting Directory
 - ...
 - HelloWorld.java
-- ...\
+- ...
 <!---->
 Inside of the create Java file:
 ```
